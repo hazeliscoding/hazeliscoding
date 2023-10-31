@@ -41,9 +41,9 @@ Hello! I'm ducksoop, a passionate developer from Texas. I primarily work in Web 
 # 📊 GitHub Stats:
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=SphereHunterYRP&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SphereHunterYRP&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=SphereHunterYRP&theme=gruvbox&hide_border=false" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=ducksoop&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducksoop&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=ducksoop&theme=gruvbox&hide_border=false" /></td>
   </tr>
 </table>
 
@@ -54,4 +54,4 @@ Hello! I'm ducksoop, a passionate developer from Texas. I primarily work in Web 
 <img src='https://randommeme-five.vercel.app/' width="100%"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SphereHunterYRP&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ducksoop&icon=0&color=0)](https://visitcount.itsvg.in)
