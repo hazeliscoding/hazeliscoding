@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm SphereHunterYRP, a passionate developer from Texas. I primarily work in Web Development.
+Hello! I'm ducksoop, a passionate developer from Texas. I primarily work in Web Development.
 
 # 💻 Tech Stack:
 
