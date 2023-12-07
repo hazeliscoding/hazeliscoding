@@ -41,9 +41,12 @@ Hello! I'm ducksoop, a passionate developer from Texas. I primarily work in Web 
 # 📊 GitHub Stats:
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=ducksoop&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducksoop&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=ducksoop&theme=gruvbox&hide_border=false" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=ducksoop&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=ducksoop&theme=gruvbox&hide_border=false&layout=compact" /></td>
+  </tr>
+  <tr>
+<!--         <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducksoop&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></td> -->
+        <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducksoop&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact" /></td>
   </tr>
 </table>
 
