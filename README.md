@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm ducksoop, a passionate developer from Texas. I primarily work in Web Development.
+Hello! I'm Hazel, a passionate developer from Texas. I primarily work in Web Development but I also love working with C and C++.
 
 # 💻 Tech Stack:
 
