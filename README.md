@@ -41,12 +41,12 @@ Hello! I'm Hazel, a passionate developer from Texas. I primarily work in Web Dev
 # 📊 GitHub Stats:
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=ducksoop&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=ducksoop&theme=gruvbox&hide_border=false&layout=compact&count_private=true" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=hazeliscoding&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=hazeliscoding&theme=gruvbox&hide_border=false&layout=compact&count_private=true" /></td>
   </tr>
   <tr>
-<!--         <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducksoop&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></td> -->
-        <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducksoop&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></td>
+<!--         <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazeliscoding&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></td> -->
+        <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazeliscoding&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></td>
   </tr>
 </table>
 
@@ -54,4 +54,4 @@ Hello! I'm Hazel, a passionate developer from Texas. I primarily work in Web Dev
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ducksoop&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=hazeliscoding&icon=0&color=0)](https://visitcount.itsvg.in)
