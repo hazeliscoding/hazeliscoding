@@ -1,6 +1,6 @@
 # Hi, I'm Hazel :wave:
 
-I am a full-stack software developer from Austria and an enthusiastic gamer.
+I am a full-stack software developer from the United States and an enthusiastic gamer.
 
 - :fire: I am currently working as a full-time Full-Stack Web Developer and various side-projects
 - :books: I am currently learning to be a more seasoned .NET developer
