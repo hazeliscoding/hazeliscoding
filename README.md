@@ -85,5 +85,3 @@ Passionate .NET Developer living in Texas.
 </details>
   
   ---
-  
-![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=hazeliscoding&repo=hazeliscoding&labelColor=%23202121&countColor=%23202121)
