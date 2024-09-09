@@ -19,8 +19,8 @@ I am a full-stack software developer from the United States and an enthusiastic 
 
 ### My Portfolio Website:
 
-<a href="https://hazeliscoding.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?label=&message=www.hazeliscoding.com&color=%23202121&style=for-the-badge&logo=googlechrome&logoColor=%2339a6e6" height="32">
+<a href="https://hazeliscoding.dev" target="_blank">
+  <img src="https://img.shields.io/static/v1?label=&message=www.hazeliscoding.dev&color=%23202121&style=for-the-badge&logo=googlechrome&logoColor=%2339a6e6" height="32">
 </a>
 
 <br>
