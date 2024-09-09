@@ -1,6 +1,6 @@
 # Hi, I'm Hazel :wave:
 
-I am a full-stack software developer working remotely from Texas.
+Passionate .NET Developer living in Texas.
 
 - :fire: I am currently working as a full-time Full-Stack Web Developer and various side-projects
 - :books: I am currently learning *Azure* cloud technologies.
