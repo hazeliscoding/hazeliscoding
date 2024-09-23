@@ -3,7 +3,7 @@
 Passionate .NET Developer living in Texas.
 
 - :fire: I am currently working as a full-time Full-Stack Web Developer and various side-projects
-- :books: I am currently learning **Azure** cloud technologies.
+- :books: I am currently learning how to develop for Microservices with AWS.
 - :heart: I love coding, gaming, nature and anime/manga.
 
 ## :page_with_curl: Contact
