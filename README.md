@@ -4,8 +4,6 @@
 
 I'm a Texas-based dev passionate about building thoughtful, scalable systems with a dash of personal flair. Whether it's crafting a beautiful frontend in Angular, designing robust APIs in C#, or deploying magic to the cloud, I take pride in writing code that *feels good*.
 
-When I'm not refactoring your favorite legacy codebase, you’ll find me sipping tea, gaming, in my garden, or sobbing over yuri manga. (⁠๑⁠˃̶⁠͈⁠ᴗ⁠˂̶⁠͈⁠)
-
 ---
 
 ### 🧠 Core Strengths
