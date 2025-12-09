@@ -36,8 +36,8 @@ I'm a Texas-based dev passionate about building thoughtful, scalable systems wit
 <details>
 <summary>📊 GitHub Stats</summary>
 
-<img alt="Hazel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazeliscoding&layout=compact&bg_color=202121&hide_border=true&text_color=ffffff&title_color=e64d39" height="200px" />
+<img alt="Hazel's Top Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hazeliscoding&layout=compact&bg_color=202121&hide_border=true&text_color=ffffff&title_color=e64d39" height="200px" />
 <br>
-<img alt="Hazel's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hazeliscoding&show_icons=true&bg_color=202121&hide_border=true&text_color=ffffff&title_color=ff035f" height="200px" />
+<img alt="Hazel's GitHub stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hazeliscoding&show_icons=true&bg_color=202121&hide_border=true&text_color=ffffff&title_color=ff035f" height="200px" />
 
 </details>
