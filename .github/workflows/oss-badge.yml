@@ -19,4 +19,4 @@ jobs:
           badge-style: 'detailed'
           badge-theme: 'dark'
           # Work orgs stay out of the public badge even if any repo flips public.
-          exclude-orgs: 'BAMTech-MyVector,BAMTechnologies,diamond-fiberglass'
+          exclude-orgs: 'BAMTech-MyVector,BAMTechnologies,diamond-fiberglass,WillowPrograms'
