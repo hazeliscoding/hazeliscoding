@@ -11,6 +11,7 @@ I'm a Texas-based dev passionate about building thoughtful, scalable systems wit
 - 💠 Backend: C#, .NET, ASP.NET MVC, Entity Framework, Dapper, SQL & NoSQL
 - 🌐 Frontend: Angular, JavaScript/TypeScript, jQuery
 - ☁️ Cloud: Azure, AWS, Serverless, CI/CD pipelines
+- 🤖 AI Agents: MCP, agent orchestration & evals, human-in-the-loop workflows
 - 🔍 Testing & Quality: XUnit, Jest, TDD
 - 🧩 Architecture: Distributed Systems, Domain-Driven Design, RESTful & SOAP APIs
 
@@ -19,9 +20,9 @@ I'm a Texas-based dev passionate about building thoughtful, scalable systems wit
 ### 🌟 Currently
 
 - 👩‍💻 Working full-time as a Full-Stack Web Developer
+- 🤖 Deep-diving into AI agent infrastructure in .NET — building an enterprise [MCP gateway](https://github.com/hazeliscoding/mcp-gateway), an [agent eval & chaos-testing platform](https://github.com/hazeliscoding/agent-eval-platform), and [agent-driven incident response](https://github.com/hazeliscoding/incident-control-plane)
+- 🛠️ Shipping comfy little tools on the side: [pr-sweep](https://github.com/hazeliscoding/pr-sweep) (desktop PR dashboard for sprint teams) & [mochi](https://github.com/hazeliscoding/mochi) (privacy-first web analytics)
 - 🦀 Learning Rust & Golang (because why not suffer beautifully?)
-- 🎮 Playing: JRPGs all the time and FF14~
-- 📚 Reading: Manga (especially **yuri**) or really anything with a good plot! (that goes for novels too)
 
 ---
 
