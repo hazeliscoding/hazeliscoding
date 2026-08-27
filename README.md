@@ -26,6 +26,12 @@ I'm a Texas-based dev passionate about building thoughtful, scalable systems wit
 
 ---
 
+### 🌱 Open Source
+
+![OSS Contributions](oss-badge.svg)
+
+---
+
 ### 💌 Let's Connect!
 
 [![EMAIL](https://img.shields.io/static/v1?label=&message=EMAIL&color=%23202121&style=for-the-badge&logo=protonmail&logoColor=%23ECB831)](mailto:hazel.granados@protonmail.com)

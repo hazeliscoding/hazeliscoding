@@ -1,0 +1,22 @@
+name: Generate OSS Badge
+on:
+  schedule:
+    - cron: '0 0 * * 0' # weekly, Sunday midnight UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: mabd-dev/gh-oss-stats-action@v0.2.1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          badge-output-path: 'oss-badge.svg'
+          badge-style: 'detailed'
+          badge-theme: 'dark'
+          # Work orgs stay out of the public badge even if any repo flips public.
+          exclude-orgs: 'BAMTech-MyVector,BAMTechnologies,diamond-fiberglass'
