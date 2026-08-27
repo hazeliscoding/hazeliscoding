@@ -66,7 +66,7 @@
       font-family="Inter, system-ui, -apple-system, sans-serif"
       font-size="28"
       font-weight="bold"
-      letter-spacing="0em">3</text>
+      letter-spacing="0em">2</text>
   </g>
 
   <!-- PRs Merged Card -->
@@ -87,7 +87,7 @@
       font-family="Inter, system-ui, -apple-system, sans-serif"
       font-size="28"
       font-weight="bold"
-      letter-spacing="0em">5</text>
+      letter-spacing="0em">3</text>
   </g>
 
   <!-- Lines Changed Card -->
@@ -108,7 +108,7 @@
       font-family="Inter, system-ui, -apple-system, sans-serif"
       font-size="28"
       font-weight="bold"
-      letter-spacing="0em">13.2K</text>
+      letter-spacing="0em">97</text>
   </g>
 
   <!-- ========================= -->
@@ -208,62 +208,10 @@
       font-size="16"
       font-weight="bold"
 	  class="repo-name"
-      letter-spacing="0em">Blogging-Platform-Project</text>
-    <!-- Owner -->
-    <text
-      x="336"
-      y="290"
-      fill="#8b949e"
-      font-family="Inter, system-ui, -apple-system, sans-serif"
-      font-size="12"
-      letter-spacing="0em">@WillowPrograms</text>
-    <!-- Stats -->
-    <text
-      x="336"
-      y="330"
-      fill="#8b949e"
-      font-family="Inter, system-ui, -apple-system, sans-serif"
-      font-size="12"
-      letter-spacing="0em">⭐ 0 · 2 PRs Merged</text>
-  </g>
-  
-  
-  
-  
-  
-  <g>
-    <!-- Card background -->
-    <rect
-      x="608"
-      y="240"
-      width="260"
-      height="108"
-      rx="14"
-      fill="url(#cardGradient)"
-      stroke="#30363d"
-    />
-    <!-- Glass overlay -->
-    <rect
-      x="608"
-      y="240"
-      width="260"
-      height="108"
-      rx="14"
-      fill="url(#glassOverlay)"
-    />
-    <!-- Repo name -->
-    <text
-      x="624"
-      y="272"
-      fill="#e6edf3"
-      font-family="Inter, system-ui, -apple-system, sans-serif"
-      font-size="16"
-      font-weight="bold"
-	  class="repo-name"
       letter-spacing="0em">pyqb</text>
     <!-- Owner -->
     <text
-      x="624"
+      x="336"
       y="290"
       fill="#8b949e"
       font-family="Inter, system-ui, -apple-system, sans-serif"
@@ -271,7 +219,7 @@
       letter-spacing="0em">@sjmh</text>
     <!-- Stats -->
     <text
-      x="624"
+      x="336"
       y="330"
       fill="#8b949e"
       font-family="Inter, system-ui, -apple-system, sans-serif"
