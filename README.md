@@ -55,8 +55,8 @@ Also exploring agent infrastructure through **[Axiomarium](https://github.com/ha
 ### ✨ Now playing
 
 <!-- START:ACTIVITY -->
-- 📦 Latest featured release: [PR Sweep v0.13.0](https://github.com/hazeliscoding/pr-sweep/releases/tag/v0.13.0)
-- ✍️ Latest featured writing: [Every trap is proven](https://www.hazeliscoding.dev/blog/every-trap-is-proven)
+- 📦 Latest featured release: [prompuff v1.1.0](https://github.com/hazeliscoding/prompuff/releases/tag/v1.1.0)
+- ✍️ Featured writing: [Every trap is proven](https://www.hazeliscoding.dev/blog/every-trap-is-proven)
 <!-- END:ACTIVITY -->
 
 ### 🌿 Outside the terminal
