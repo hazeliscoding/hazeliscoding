@@ -20,22 +20,16 @@ I build useful things for hobbies and work, and I believe a good tool should be 
 
 ### 🖥️ Featured software
 
-<!-- Image cards are clickable and have accessible alt text; artwork intentionally does not claim to be a real product screenshot. -->
-<a href="https://github.com/hazeliscoding/xiv-vault"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/xiv-vault-dark.svg"><img src="./assets/xiv-vault-light.svg" width="100%" alt="XIV Vault — a .NET desktop app and CLI for XIVLauncher and Dalamud configuration backup and restore"></picture></a>
-
-<a href="https://github.com/hazeliscoding/gil-sweep"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/gil-sweep-dark.svg"><img src="./assets/gil-sweep-light.svg" width="100%" alt="Gil Sweep — an FFXIV desktop companion for planning gil farming"></picture></a>
-
-<a href="https://github.com/hazeliscoding/pr-sweep"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/pr-sweep-dark.svg"><img src="./assets/pr-sweep-light.svg" width="100%" alt="PR Sweep — a portable desktop dashboard for GitHub pull request queues and sprint reviews"></picture></a>
-
-<a href="https://github.com/hazeliscoding/prompuff"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/prompuff-dark.svg"><img src="./assets/prompuff-light.svg" width="100%" alt="Prompuff — a local-first Avalonia prompt library with versioning, tags and variables"></picture></a>
+- **[XIV Vault](https://github.com/hazeliscoding/xiv-vault)** — XIVLauncher + Dalamud backups · `C# / .NET / Avalonia`
+- **[Gil Sweep](https://github.com/hazeliscoding/gil-sweep)** — A better way to farm gil · `C# / FFXIV / market data`
+- **[PR Sweep](https://github.com/hazeliscoding/pr-sweep)** — Make your review queue make sense · `Angular / Electron / TypeScript`
+- **[Prompuff](https://github.com/hazeliscoding/prompuff)** — Your favorite prompts, kept close · `Avalonia / SQLite / local-first`
 
 > Apparently, my response to a minor inconvenience is to build an entire app about it.
 
 ### 🤖 AI engineering · proving what works
 
-<a href="https://github.com/hazeliscoding/sdl3-porter"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/sdl3-porter-dark.svg"><img src="./assets/sdl3-porter-light.svg" width="100%" alt="sdl3-porter — 17 proven SDL3 migration traps in cross-platform CI; whole-game Haiku 4.5 eval score improved from 0.39 without the skill to 0.92 with it"></picture></a>
-
-**[sdl3-porter](https://github.com/hazeliscoding/sdl3-porter)** is a Claude Code plugin for migrating C and C++ projects from SDL2 to SDL3. It catches runtime behavior changes that a compiler can miss. Each of its **17 proven traps** has a working SDL2 original, a naive SDL3 port that compiles but fails, and a corrected port. Evaluations compare agents with and without the skill, and the plugin was tested against real-world codebases including Woof! and scrcpy.
+**[sdl3-porter](https://github.com/hazeliscoding/sdl3-porter)** is a Claude Code plugin for migrating C and C++ projects from SDL2 to SDL3. It catches runtime behavior changes that a compiler can miss. Each of its **17 proven traps** has a working SDL2 original, a naive SDL3 port that compiles but fails, and a corrected port. In whole-game evals, Haiku 4.5 scored **0.39 without the skill and 0.92 with it**, and the plugin was tested against real-world codebases including Woof! and scrcpy.
 
 📖 **[Every trap is proven: building an agent skill you can trust](https://www.hazeliscoding.dev/blog/every-trap-is-proven)** — my write-up on regression fixtures, evaluation design, agent debugging and documenting known limitations.
 
