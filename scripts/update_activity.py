@@ -10,7 +10,13 @@ ROOT = pathlib.Path(__file__).resolve().parents[1]
 README = ROOT / 'README.md'
 START = '<!-- START:ACTIVITY -->'
 END = '<!-- END:ACTIVITY -->'
-REPOS = ['xiv-vault', 'gil-sweep', 'pr-sweep', 'prompuff', 'sdl3-porter']
+REPOS = {
+    'xiv-vault': 'XIV Vault',
+    'gil-sweep': 'Gil Sweep',
+    'pr-sweep': 'PR Sweep',
+    'prompuff': 'Prompuff',
+    'sdl3-porter': 'sdl3-porter',
+}
 
 def releases(repo):
     url = f'https://api.github.com/repos/hazeliscoding/{repo}/releases?per_page=5'
@@ -41,7 +47,7 @@ def main():
     _, repo, tag, url = max(found)
     if not url.startswith(f'https://github.com/hazeliscoding/{repo}/releases/'):
         raise ValueError('Unexpected release URL')
-    block = f'- 📦 Latest featured release: [{repo} {tag}]({url})\n- ✍️ Featured writing: [Every trap is proven](https://www.hazeliscoding.dev/blog/every-trap-is-proven)\n'
+    block = f'- 📦 Latest featured release: [{REPOS[repo]} {tag}]({url})\n- ✍️ Featured writing: [Every trap is proven](https://www.hazeliscoding.dev/blog/every-trap-is-proven)\n'
     before, tail = current.split(START, 1)
     _, after = tail.split(END, 1)
     updated = before + START + '\n' + block + END + after

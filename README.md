@@ -45,7 +45,7 @@ Also exploring agent infrastructure through **[Axiomarium](https://github.com/ha
 ### ✨ Now playing
 
 <!-- START:ACTIVITY -->
-- 📦 Latest featured release: [prompuff v1.1.0](https://github.com/hazeliscoding/prompuff/releases/tag/v1.1.0)
+- 📦 Latest featured release: [Prompuff v1.1.0](https://github.com/hazeliscoding/prompuff/releases/tag/v1.1.0)
 - ✍️ Featured writing: [Every trap is proven](https://www.hazeliscoding.dev/blog/every-trap-is-proven)
 <!-- END:ACTIVITY -->
 
