@@ -12,8 +12,6 @@
   <a href="mailto:hazel.granados@protonmail.com">Email</a>
 </p>
 
-### 🌸 Welcome!
-
 I'm **Hazel (she/they)**, a Texas-based full-stack developer building with **C#, .NET, Angular, and cloud tooling**. I love local-first desktop applications, developer experience, and **AI engineering grounded in evaluation rather than vibes**.
 
 I build useful things for hobbies and work, and I believe a good tool should be reliable, approachable, and a little bit cozy. ♡
@@ -37,14 +35,12 @@ Also exploring agent infrastructure through **[Axiomarium](https://github.com/ha
 
 ### 🧠 My toolbox
 
-| | Things I use |
-|---|---|
-| 💠 Applications | C#, .NET, ASP.NET, Entity Framework, Dapper, SQL, Angular, TypeScript |
-| 🖥️ Desktop | Avalonia UI, Electron, SQLite, local-first applications |
-| 🤖 Agents | Claude Code, GitHub Copilot, Codex, MCP, agent skills and behavioral evals |
-| ☁️ Delivery | Azure, AWS, Docker, devcontainers, CI/CD, GitHub Actions |
-| 🧪 Quality | xUnit, Jest, regression testing, maintainable architecture |
-| 🦀 Curiosities | Rust, Go, C++, systems programming and games |
+- 💠 **Applications** — C#, .NET, ASP.NET, Entity Framework, Dapper, SQL, Angular, TypeScript
+- 🖥️ **Desktop** — Avalonia UI, Electron, SQLite, local-first applications
+- 🤖 **Agents** — Claude Code, GitHub Copilot, Codex, MCP, agent skills and behavioral evals
+- ☁️ **Delivery** — Azure, AWS, Docker, devcontainers, CI/CD, GitHub Actions
+- 🧪 **Quality** — xUnit, Jest, regression testing, maintainable architecture
+- 🦀 **Curiosities** — Rust, Go, C++, systems programming and games
 
 ### ✨ Now playing
 
