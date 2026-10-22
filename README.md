@@ -12,6 +12,10 @@
   <a href="mailto:hazel.granados@protonmail.com">Email</a>
 </p>
 
+<p align="center">
+  <a href="https://ko-fi.com/hazeliscoding"><img src="https://img.shields.io/badge/Ko--fi-Support%20my%20work-FF5E5B?logo=kofi&amp;logoColor=white" alt="Support me on Ko-fi"></a>
+</p>
+
 I'm **Hazel (she/they)**, a Texas-based full-stack developer building with **C#, .NET, Angular, and cloud tooling**. I love local-first desktop applications, developer experience, and **AI engineering grounded in evaluation rather than vibes**.
 
 I build useful things for hobbies and work, and I believe a good tool should be reliable, approachable, and a little bit cozy. ♡
