@@ -97,6 +97,7 @@ Tests your AI coding setup like software: agents, skills, hooks and evals, plus 
 - 🐾 **[Staypaw](https://github.com/hazeliscoding/staypaw)** stops other apps from stealing your keyboard while you type or play. Nothing injected, no network.
 - 🐰 **[Shybun](https://github.com/hazeliscoding/shybun)** mutes your mic and camera in every Windows app with one key. Its badge says you're muted only when Windows confirms it.
 - 🧾 **[Tattlebun](https://github.com/hazeliscoding/tattlebun)** keeps a receipt of what your coding agents changed on your PC outside the repo, and undoes it once you say so. Nothing leaves your PC.
+- 🏷️ **[Carmine Workbench](https://github.com/hazeliscoding/carmine-workbench)** swaps the tokens, cookies and API keys in curl commands, headers and logs for labels before you share them, so the debugging detail stays. Nothing you paste leaves your PC.
 
 </td>
 <td width="50%" valign="top">
