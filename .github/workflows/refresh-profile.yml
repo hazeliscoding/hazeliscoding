@@ -1,7 +1,7 @@
 name: Refresh profile activity
 on:
   schedule:
-    - cron: '23 13 * * 1'
+    - cron: '23 13 * * *'
   workflow_dispatch:
 permissions:
   contents: write
