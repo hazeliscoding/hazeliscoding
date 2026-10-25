@@ -16,28 +16,31 @@
   <a href="https://ko-fi.com/hazeliscoding"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi"></a>
 </p>
 
-I'm **Hazel (she/they)**, a Texas-based full-stack developer building with **C#, .NET, Angular, and cloud tooling**. I love local-first desktop applications, developer experience, and **AI engineering grounded in evaluation rather than vibes**.
+I'm **Hazel (she/they)**, a Texas-based full-stack developer in **C#, .NET and Angular**. I make small, local-first apps that each do one job, and AI tooling I can prove works. A good tool should be reliable, approachable and a little bit cozy.&nbsp;♡
 
-I build useful things for hobbies and work, and I believe a good tool should be reliable, approachable, and a little bit cozy. ♡
+<p align="center">˚ ༘ ♡ ⋆｡˚ ✿ ˚ ༘ ♡ ⋆｡˚</p>
 
-### 🖥️ Featured software
+### 🧸 apps i've shipped ‧₊˚
 
-- **[XIV Vault](https://github.com/hazeliscoding/xiv-vault)** — XIVLauncher + Dalamud backups · `C# / .NET / Avalonia`
-- **[Gil Sweep](https://github.com/hazeliscoding/gil-sweep)** — A better way to farm gil · `C# / FFXIV / market data`
-- **[PR Sweep](https://github.com/hazeliscoding/pr-sweep)** — Make your review queue make sense · `Angular / Electron / TypeScript`
-- **[Prompuff](https://github.com/hazeliscoding/prompuff)** — Your favorite prompts, kept close · `Avalonia / SQLite / local-first`
+- 💾 **[XIV Vault](https://hazeliscoding.github.io/xiv-vault/)** moves your Dalamud setup to a new PC: plugin settings, HUD, hotbars, keybinds and macros. Every backup is hash-checked, and every restore takes a safety backup first.
+- 💰 **[Gil Sweep](https://hazeliscoding.github.io/gil-sweep/)** answers "what should I farm for gil right now?" from market demand, competition, price trends and node timers on your world.
+- 🍡 **[Prompuff](https://hazeliscoding.github.io/prompuff/)** keeps the prompts that worked, with tags, versions and `{{variables}}`, and hands them to your agents over MCP. No account, no cloud.
+- 🧹 **[Sweepling](https://github.com/hazeliscoding/sweepling)** finds the dev servers and watchers your Claude Code sessions left running on Windows, and closes them only after you say so.
+- 🔀 **[PR Sweep](https://github.com/hazeliscoding/pr-sweep)** shows where your team's pull requests are stuck this sprint, across a whole GitHub org, with no labels to maintain.
+- 🗺️ **[ConAtlas TX](https://conatlas-tx.vercel.app)** puts every anime con in Texas on one calm page, with dates checked against each organizer's own site.
 
 > Apparently, my response to a minor inconvenience is to build an entire app about it.
 
-### 🤖 AI engineering · proving what works
+### 🤖 ai engineering, proven ‧₊˚
 
-**[sdl3-porter](https://github.com/hazeliscoding/sdl3-porter)** is a Claude Code plugin for migrating C and C++ projects from SDL2 to SDL3. It catches runtime behavior changes that a compiler can miss. Each of its **17 proven traps** has a working SDL2 original, a naive SDL3 port that compiles but fails, and a corrected port. In whole-game evals, Haiku 4.5 scored **0.39 without the skill and 0.92 with it**, and the plugin was tested against real-world codebases including Woof! and scrcpy.
+- 🎮 **[sdl3-porter](https://github.com/hazeliscoding/sdl3-porter)** ports SDL2 code to SDL3 and catches the bugs that still compile. Each of its 17 traps is proven by a fixture in CI, and Haiku 4.5 went from **0.39 to 0.92** with it. [How I proved it](https://www.hazeliscoding.dev/blog/every-trap-is-proven)
+- 🧪 **[Axiomarium](https://github.com/hazeliscoding/axiomarium)** tests your AI coding setup like software: agents, skills, hooks and evals, plus `axm`, a CLI that checks them.
 
-📖 **[Every trap is proven: building an agent skill you can trust](https://www.hazeliscoding.dev/blog/every-trap-is-proven)** — my write-up on regression fixtures, evaluation design, agent debugging and documenting known limitations.
+### 🌷 building now ‧₊˚
 
-Also exploring agent infrastructure through **[Axiomarium](https://github.com/hazeliscoding/axiomarium)**, an open lab for agents, skills, hooks, policies and evaluations.
+- 🐾 **[Staypaw](https://github.com/hazeliscoding/staypaw)** stops other apps from stealing your keyboard while you type or play. Nothing injected, no network.
 
-### 🧠 My toolbox
+### 🧠 my toolbox ‧₊˚
 
 - 💠 **Applications** — C#, .NET, ASP.NET, Entity Framework, Dapper, SQL, Angular, TypeScript
 - 🖥️ **Desktop** — Avalonia UI, Electron, SQLite, local-first applications
@@ -46,14 +49,14 @@ Also exploring agent infrastructure through **[Axiomarium](https://github.com/ha
 - 🧪 **Quality** — xUnit, Jest, regression testing, maintainable architecture
 - 🦀 **Curiosities** — Rust, Go, C++, systems programming and games
 
-### ✨ Now playing
+### ✨ now playing ‧₊˚
 
 <!-- START:ACTIVITY -->
 - 📦 Latest featured release: [XIV Vault v1.0.0](https://github.com/hazeliscoding/xiv-vault/releases/tag/v1.0.0)
 - ✍️ Featured writing: [Every trap is proven](https://www.hazeliscoding.dev/blog/every-trap-is-proven)
 <!-- END:ACTIVITY -->
 
-### 🌿 Outside the terminal
+### 🌿 outside the terminal ‧₊˚
 
 FFXIV, JRPGs, anime and yuri manga, shoegaze and metal, long walks, and listening to people enthusiastically explain their latest obsession.
 
