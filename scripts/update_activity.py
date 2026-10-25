@@ -15,6 +15,8 @@ REPOS = {
     'gil-sweep': 'Gil Sweep',
     'pr-sweep': 'PR Sweep',
     'prompuff': 'Prompuff',
+    'sweepling': 'Sweepling',
+    'conatlas-tx': 'ConAtlas TX',
     'sdl3-porter': 'sdl3-porter',
 }
 

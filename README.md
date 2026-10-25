@@ -52,7 +52,7 @@ I'm **Hazel (she/they)**, a Texas-based full-stack developer in **C#, .NET and A
 ### ✨ now playing ‧₊˚
 
 <!-- START:ACTIVITY -->
-- 📦 Latest featured release: [XIV Vault v1.0.0](https://github.com/hazeliscoding/xiv-vault/releases/tag/v1.0.0)
+- 📦 Latest featured release: [PR Sweep v0.13.1](https://github.com/hazeliscoding/pr-sweep/releases/tag/v0.13.1)
 - ✍️ Featured writing: [Every trap is proven](https://www.hazeliscoding.dev/blog/every-trap-is-proven)
 <!-- END:ACTIVITY -->
 
