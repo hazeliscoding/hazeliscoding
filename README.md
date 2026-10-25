@@ -95,6 +95,7 @@ Tests your AI coding setup like software: agents, skills, hooks and evals, plus 
 ### 🌷 building now ‧₊˚
 
 - 🐾 **[Staypaw](https://github.com/hazeliscoding/staypaw)** stops other apps from stealing your keyboard while you type or play. Nothing injected, no network.
+- 🐰 **[Shybun](https://github.com/hazeliscoding/shybun)** mutes your mic and camera in every Windows app with one key. Its badge says you're muted only when Windows confirms it.
 
 </td>
 <td width="50%" valign="top">
