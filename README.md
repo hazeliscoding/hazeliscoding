@@ -40,6 +40,17 @@ I'm **Hazel (she/they)**, a Texas-based full-stack developer in **C#, .NET and A
 
 - 🐾 **[Staypaw](https://github.com/hazeliscoding/staypaw)** stops other apps from stealing your keyboard while you type or play. Nothing injected, no network.
 
+### 🌍 open source i help with ‧₊˚
+
+<!-- START:OSS -->
+✿ **6 merged PRs** across 2 projects, and 5 more in review.
+
+- 🗑️ **[Bulk Crap Uninstaller](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller)** (22k ★) · [4 merged](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller/pulls?q=is%3Apr+author%3Ahazeliscoding): made BCU-console scriptable with JSON output and a dry-run mode, and I help triage.
+- 📄 **[PdfCraft](https://github.com/storytold/pdfcraft)** (17.6k ★) · [2 merged, 3 in review](https://github.com/storytold/pdfcraft/pulls?q=is%3Apr+author%3Ahazeliscoding): rendering and UI fixes in a PDF reader written from scratch in Rust.
+- 🚀 **[XIVLauncher](https://github.com/goatcorp/FFXIVQuickLauncher)** (3.2k ★) · [1 in review](https://github.com/goatcorp/FFXIVQuickLauncher/pulls?q=is%3Apr+author%3Ahazeliscoding): a fix for a login crash on unreadable game files.
+- 🐧 **[XIVLauncher.Core](https://github.com/goatcorp/XIVLauncher.Core)** (234 ★) · [1 in review](https://github.com/goatcorp/XIVLauncher.Core/pulls?q=is%3Apr+author%3Ahazeliscoding): creates a missing game folder before patching.
+<!-- END:OSS -->
+
 ### 🧠 my toolbox ‧₊˚
 
 - 💠 **Applications** — C#, .NET, ASP.NET, Entity Framework, Dapper, SQL, Angular, TypeScript
