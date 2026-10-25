@@ -24,6 +24,7 @@ REPOS = {
     'shybun': 'Shybun',
     'tattlebun': 'Tattlebun',
     'carmine-workbench': 'Carmine Workbench',
+    'darnling': 'Darnling',
     'sdl3-porter': 'sdl3-porter',
 }
 # Only these upstream projects appear, so work orgs and PRs that list my own apps never do.
