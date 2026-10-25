@@ -65,6 +65,14 @@ Puts every anime con in Texas on one calm page, with dates checked against each 
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+🐾 **[Staypaw](https://github.com/hazeliscoding/staypaw)**<br>
+Puts your keyboard focus back when another app steals it, and holds the keys you press meanwhile so the stealer never gets them. Nothing injected, no telemetry.
+
+</td>
+</tr>
 </table>
 
 > Apparently, my response to a minor inconvenience is to build an entire app about it.
@@ -94,7 +102,6 @@ Tests your AI coding setup like software: agents, skills, hooks and evals, plus 
 
 ### 🌷 building now ‧₊˚
 
-- 🐾 **[Staypaw](https://github.com/hazeliscoding/staypaw)** stops other apps from stealing your keyboard while you type or play. Nothing injected, no network.
 - 🐰 **[Shybun](https://github.com/hazeliscoding/shybun)** mutes your mic and camera in every Windows app with one key. Its badge says you're muted only when Windows confirms it.
 - 🧾 **[Tattlebun](https://github.com/hazeliscoding/tattlebun)** keeps a receipt of what your coding agents changed on your PC outside the repo, and undoes it once you say so. Nothing leaves your PC.
 - 🏷️ **[Carmine Workbench](https://github.com/hazeliscoding/carmine-workbench)** swaps the tokens, cookies and API keys in curl commands, headers and logs for labels before you share them, so the debugging detail stays. Nothing you paste leaves your PC.
