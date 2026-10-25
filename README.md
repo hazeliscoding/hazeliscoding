@@ -22,23 +22,93 @@ I'm **Hazel (she/they)**, a Texas-based full-stack developer in **C#, .NET and A
 
 ### 🧸 apps i've shipped ‧₊˚
 
-- 💾 **[XIV Vault](https://hazeliscoding.github.io/xiv-vault/)** moves your Dalamud setup to a new PC: plugin settings, HUD, hotbars, keybinds and macros. Every backup is hash-checked, and every restore takes a safety backup first.
-- 💰 **[Gil Sweep](https://hazeliscoding.github.io/gil-sweep/)** answers "what should I farm for gil right now?" from market demand, competition, price trends and node timers on your world.
-- 🍡 **[Prompuff](https://hazeliscoding.github.io/prompuff/)** keeps the prompts that worked, with tags, versions and `{{variables}}`, and hands them to your agents over MCP. No account, no cloud.
-- 🧹 **[Sweepling](https://github.com/hazeliscoding/sweepling)** finds the dev servers and watchers your Claude Code sessions left running on Windows, and closes them only after you say so.
-- 🔀 **[PR Sweep](https://github.com/hazeliscoding/pr-sweep)** shows where your team's pull requests are stuck this sprint, across a whole GitHub org, with no labels to maintain.
-- 🗺️ **[ConAtlas TX](https://conatlas-tx.vercel.app)** puts every anime con in Texas on one calm page, with dates checked against each organizer's own site.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+💾 **[XIV Vault](https://hazeliscoding.github.io/xiv-vault/)**<br>
+Moves your Dalamud setup to a new PC: plugin settings, HUD, hotbars, keybinds and macros. Every backup is hash-checked, and every restore takes a safety backup first.
+
+</td>
+<td width="50%" valign="top">
+
+💰 **[Gil Sweep](https://hazeliscoding.github.io/gil-sweep/)**<br>
+Answers "what should I farm for gil right now?" from market demand, competition, price trends and node timers on your world.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+🍡 **[Prompuff](https://hazeliscoding.github.io/prompuff/)**<br>
+Keeps the prompts that worked, with tags, versions and `{{variables}}`, and hands them to your agents over MCP. No account, no cloud.
+
+</td>
+<td width="50%" valign="top">
+
+🧹 **[Sweepling](https://github.com/hazeliscoding/sweepling)**<br>
+Finds the dev servers and watchers your Claude Code sessions left running on Windows, and closes them only after you say so.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+🔀 **[PR Sweep](https://github.com/hazeliscoding/pr-sweep)**<br>
+Shows where your team's pull requests are stuck this sprint, across a whole GitHub org, with no labels to maintain.
+
+</td>
+<td width="50%" valign="top">
+
+🗺️ **[ConAtlas TX](https://conatlas-tx.vercel.app)**<br>
+Puts every anime con in Texas on one calm page, with dates checked against each organizer's own site.
+
+</td>
+</tr>
+</table>
 
 > Apparently, my response to a minor inconvenience is to build an entire app about it.
 
 ### 🤖 ai engineering, proven ‧₊˚
 
-- 🎮 **[sdl3-porter](https://github.com/hazeliscoding/sdl3-porter)** ports SDL2 code to SDL3 and catches the bugs that still compile. Each of its 17 traps is proven by a fixture in CI, and Haiku 4.5 went from **0.39 to 0.92** with it. [How I proved it](https://www.hazeliscoding.dev/blog/every-trap-is-proven)
-- 🧪 **[Axiomarium](https://github.com/hazeliscoding/axiomarium)** tests your AI coding setup like software: agents, skills, hooks and evals, plus `axm`, a CLI that checks them.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+🎮 **[sdl3-porter](https://github.com/hazeliscoding/sdl3-porter)**<br>
+Ports SDL2 code to SDL3 and catches the bugs that still compile. Each of its 17 traps is proven by a fixture in CI, and Haiku 4.5 went from **0.39 to 0.92** with it. [How I proved it](https://www.hazeliscoding.dev/blog/every-trap-is-proven)
+
+</td>
+<td width="50%" valign="top">
+
+🧪 **[Axiomarium](https://github.com/hazeliscoding/axiomarium)**<br>
+Tests your AI coding setup like software: agents, skills, hooks and evals, plus `axm`, a CLI that checks them.
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🌷 building now ‧₊˚
 
 - 🐾 **[Staypaw](https://github.com/hazeliscoding/staypaw)** stops other apps from stealing your keyboard while you type or play. Nothing injected, no network.
+
+</td>
+<td width="50%" valign="top">
+
+### ✨ now playing ‧₊˚
+
+<!-- START:ACTIVITY -->
+- 📦 Latest featured release: [PR Sweep v0.13.1](https://github.com/hazeliscoding/pr-sweep/releases/tag/v0.13.1)
+- ✍️ Featured writing: [Every trap is proven](https://www.hazeliscoding.dev/blog/every-trap-is-proven)
+<!-- END:ACTIVITY -->
+
+</td>
+</tr>
+</table>
 
 ### 🌍 open source i help with ‧₊˚
 
@@ -59,13 +129,6 @@ I'm **Hazel (she/they)**, a Texas-based full-stack developer in **C#, .NET and A
 - ☁️ **Delivery** — Azure, AWS, Docker, devcontainers, CI/CD, GitHub Actions
 - 🧪 **Quality** — xUnit, Jest, regression testing, maintainable architecture
 - 🦀 **Curiosities** — Rust, Go, C++, systems programming and games
-
-### ✨ now playing ‧₊˚
-
-<!-- START:ACTIVITY -->
-- 📦 Latest featured release: [PR Sweep v0.13.1](https://github.com/hazeliscoding/pr-sweep/releases/tag/v0.13.1)
-- ✍️ Featured writing: [Every trap is proven](https://www.hazeliscoding.dev/blog/every-trap-is-proven)
-<!-- END:ACTIVITY -->
 
 ### 🌿 outside the terminal ‧₊˚
 
