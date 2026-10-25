@@ -20,6 +20,8 @@ REPOS = {
     'prompuff': 'Prompuff',
     'sweepling': 'Sweepling',
     'conatlas-tx': 'ConAtlas TX',
+    'staypaw': 'Staypaw',
+    'shybun': 'Shybun',
     'sdl3-porter': 'sdl3-porter',
 }
 # Only these upstream projects appear, so work orgs and PRs that list my own apps never do.
