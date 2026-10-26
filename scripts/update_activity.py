@@ -22,7 +22,7 @@ REPOS = {
     'conatlas-tx': 'ConAtlas TX',
     'staypaw': 'Staypaw',
     'shybun': 'Shybun',
-    'tattlebun': 'Tattlebun',
+    'tattlehop': 'Tattlehop',
     'carmine-workbench': 'Carmine Workbench',
     'darnling': 'Darnling',
     'oopsling': 'Oopsling',
