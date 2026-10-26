@@ -106,6 +106,8 @@ Tests your AI coding setup like software: agents, skills, hooks and evals, plus 
 - 🧾 **[Tattlebun](https://github.com/hazeliscoding/tattlebun)** keeps a receipt of what your coding agents changed on your PC outside the repo, and undoes it once you say so. Nothing leaves your PC.
 - 🏷️ **[Carmine Workbench](https://github.com/hazeliscoding/carmine-workbench)** swaps the tokens, cookies and API keys in curl commands, headers and logs for labels before you share them, so the debugging detail stays. Nothing you paste leaves your PC.
 - 🪡 **[Darnling](https://github.com/hazeliscoding/darnling)** shows your sticker on every background, fills the see-through gaps that dark mode gives away, and exports it for every place you post. Nothing leaves your browser.
+- 💥 **[Oopsling](https://github.com/hazeliscoding/oopsling)** turns a crash in your .NET app into a GitHub issue the user files from their own browser. The app itself sends nothing.
+- 🎨 **[Wippup](https://github.com/hazeliscoding/wippup)** turns the Krita or Procreate file you already saved into a vertical reel of the piece coming together, for the times you didn't record. Nothing leaves your browser.
 
 </td>
 <td width="50%" valign="top">
