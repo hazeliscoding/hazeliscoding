@@ -24,7 +24,7 @@ REPOS = {
     'shybun': 'Shybun',
     'tattlehop': 'Tattlehop',
     'carmine-workbench': 'Carmine Workbench',
-    'darnling': 'Darnling',
+    'mendmoth': 'Mendmoth',
     'oopsling': 'Oopsling',
     'wippup': 'Wippup',
     'sdl3-porter': 'sdl3-porter',
