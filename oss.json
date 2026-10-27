@@ -1,0 +1,32 @@
+[
+  {
+    "repo": "AvaloniaUI/Avalonia",
+    "emoji": "🖼️",
+    "name": "Avalonia",
+    "blurb": "trackpad scrolling, startup and accessibility fixes in the .NET UI framework my desktop apps are built on"
+  },
+  {
+    "repo": "BCUninstaller/Bulk-Crap-Uninstaller",
+    "emoji": "🗑️",
+    "name": "Bulk Crap Uninstaller",
+    "blurb": "made BCU-console scriptable with JSON output and a dry-run mode, and I help triage"
+  },
+  {
+    "repo": "storytold/pdfcraft",
+    "emoji": "📄",
+    "name": "PdfCraft",
+    "blurb": "rendering and UI fixes in a PDF reader written from scratch in Rust"
+  },
+  {
+    "repo": "goatcorp/FFXIVQuickLauncher",
+    "emoji": "🚀",
+    "name": "XIVLauncher",
+    "blurb": "a fix for a login crash on unreadable game files"
+  },
+  {
+    "repo": "goatcorp/XIVLauncher.Core",
+    "emoji": "🐧",
+    "name": "XIVLauncher.Core",
+    "blurb": "creates a missing game folder before patching"
+  }
+]

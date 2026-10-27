@@ -29,14 +29,9 @@ REPOS = {
     'wippup': 'Wippup',
     'sdl3-porter': 'sdl3-porter',
 }
-# Only these upstream projects appear, so work orgs and PRs that list my own apps never do.
-OSS = {
-    'AvaloniaUI/Avalonia': ('🖼️', 'Avalonia', 'trackpad scrolling, startup and accessibility fixes in the .NET UI framework my desktop apps are built on'),
-    'BCUninstaller/Bulk-Crap-Uninstaller': ('🗑️', 'Bulk Crap Uninstaller', 'made BCU-console scriptable with JSON output and a dry-run mode, and I help triage'),
-    'storytold/pdfcraft': ('📄', 'PdfCraft', 'rendering and UI fixes in a PDF reader written from scratch in Rust'),
-    'goatcorp/FFXIVQuickLauncher': ('🚀', 'XIVLauncher', 'a fix for a login crash on unreadable game files'),
-    'goatcorp/XIVLauncher.Core': ('🐧', 'XIVLauncher.Core', 'creates a missing game folder before patching'),
-}
+# Only the upstream projects in oss.json appear, so work orgs and PRs that list my own apps never do.
+# hazeliscoding/portfolio's scripts/generate-oss-stats.mjs reads the same file from main, so keep its name and shape.
+OSS_LIST = ROOT / 'oss.json'
 FETCH_ERRORS = (urllib.error.URLError, TimeoutError, ValueError, KeyError)
 
 def api(path):
@@ -71,15 +66,23 @@ def release_block():
         raise ValueError('Unexpected release URL')
     return f'- 📦 Latest featured release: [{REPOS[repo]} {tag}]({url})\n- ✍️ Featured writing: [Every trap is proven](https://www.hazeliscoding.dev/blog/every-trap-is-proven)\n'
 
-def oss_block():
-    query = urllib.parse.quote(' '.join(['is:pr', 'author:hazeliscoding', *(f'repo:{repo}' for repo in OSS)]))
+def load_oss():
+    projects = json.loads(OSS_LIST.read_text(encoding='utf-8'))
+    # An empty list would search every PR of mine, which is the drift the list exists to stop.
+    if not projects or not all(isinstance(p.get(key), str) and p[key] for p in projects for key in ('repo', 'emoji', 'name', 'blurb')):
+        raise ValueError(f'{OSS_LIST.name} needs at least one project, each with a repo, emoji, name and blurb')
+    return projects
+
+def oss_block(oss):
+    query = urllib.parse.quote(' '.join(['is:pr', 'author:hazeliscoding', *(f'repo:{p["repo"]}' for p in oss)]))
     result = api(f'search/issues?q={query}&per_page=100')
     # shortcut: reads one page of 100 PRs and refuses to undercount, page through once there are more
     if result['incomplete_results'] or result['total_count'] > len(result['items']):
         raise ValueError('Partial search results')
     lines, projects, merged_total, open_total = [], 0, 0, 0
-    for repo, (emoji, name, blurb) in OSS.items():
-        prs = [pr for pr in result['items'] if pr['repository_url'].lower().endswith('/repos/' + repo.lower())]
+    for p in oss:
+        repo, emoji, name, blurb = p['repo'], p['emoji'], p['name'], p['blurb']
+        prs =[pr for pr in result['items'] if pr['repository_url'].lower().endswith('/repos/' + repo.lower())]
         merged = sum(1 for pr in prs if pr['pull_request'].get('merged_at'))
         waiting = sum(1 for pr in prs if pr['state'] == 'open')
         counts = []
@@ -112,6 +115,8 @@ def main():
     for start, end in ((START, END), (OSS_START, OSS_END)):
         if current.count(start) != 1 or current.count(end) != 1 or current.index(start) > current.index(end):
             raise ValueError(f'Expected exactly one correctly ordered {start} block')
+    # Outside the fetch guard below: a broken list should fail the run, not leave a warning.
+    oss_projects = load_oss()
     updated = current
     release = release_block()
     if release:
@@ -119,7 +124,7 @@ def main():
     else:
         print('No GitHub release data available; release line untouched')
     try:
-        oss = oss_block()
+        oss = oss_block(oss_projects)
     except FETCH_ERRORS as exc:
         oss = None
         print(f'Warning: open source: {exc}')
