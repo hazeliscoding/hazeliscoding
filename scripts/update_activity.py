@@ -31,6 +31,7 @@ REPOS = {
 }
 # Only these upstream projects appear, so work orgs and PRs that list my own apps never do.
 OSS = {
+    'AvaloniaUI/Avalonia': ('🖼️', 'Avalonia', 'trackpad scrolling, startup and accessibility fixes in the .NET UI framework my desktop apps are built on'),
     'BCUninstaller/Bulk-Crap-Uninstaller': ('🗑️', 'Bulk Crap Uninstaller', 'made BCU-console scriptable with JSON output and a dry-run mode, and I help triage'),
     'storytold/pdfcraft': ('📄', 'PdfCraft', 'rendering and UI fixes in a PDF reader written from scratch in Rust'),
     'goatcorp/FFXIVQuickLauncher': ('🚀', 'XIVLauncher', 'a fix for a login crash on unreadable game files'),
