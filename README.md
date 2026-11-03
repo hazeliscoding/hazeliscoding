@@ -126,6 +126,7 @@ Tests your AI coding setup like software: agents, skills, hooks and evals, plus 
 - 🏷️ **[Carmine Workbench](https://github.com/hazeliscoding/carmine-workbench)** swaps the tokens, cookies and API keys in curl commands, headers and logs for labels before you share them, so the debugging detail stays. Nothing you paste leaves your PC.
 - 🪡 **[Mendmoth](https://github.com/hazeliscoding/mendmoth)** shows your sticker on every background, fills the see-through gaps that dark mode gives away, and exports it for every place you post. Nothing leaves your browser.
 - 🎨 **[Wippup](https://github.com/hazeliscoding/wippup)** turns the Krita or Procreate file you already saved into a vertical reel of the piece coming together, for the times you didn't record. Nothing leaves your browser.
+- 🔭 **[Overglance](https://github.com/hazeliscoding/overglance-releases)** puts your day, your music, your AI usage limits and your coding agents' status in a pill at the top of your Windows screen. It never reads your AI sign-ins. A paid app, with a free trial.
 
 </td>
 <td width="50%" valign="top">
