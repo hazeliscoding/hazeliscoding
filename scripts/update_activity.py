@@ -27,6 +27,7 @@ REPOS = {
     'mendmoth': 'Mendmoth',
     'oopsling': 'Oopsling',
     'wippup': 'Wippup',
+    'overglance-releases': 'Overglance',
     'sdl3-porter': 'sdl3-porter',
 }
 # Only the upstream projects in oss.json appear, so work orgs and PRs that list my own apps never do.
