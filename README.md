@@ -77,6 +77,25 @@ Puts your keyboard focus back when another app steals it, and holds the keys you
 
 > Apparently, my response to a minor inconvenience is to build an entire app about it.
 
+### 📦 libraries i've shipped ‧₊˚
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+💥 **[Oopsling](https://github.com/hazeliscoding/oopsling)**<br>
+Turns a crash in your .NET app into a GitHub issue the user files from their own browser. The app itself sends nothing.
+
+</td>
+<td width="50%" valign="top">
+
+🗃️ **[QuickbaseNet](https://github.com/hazeliscoding/quickbase-net)**<br>
+Talks to Quickbase from .NET without hand-building JSON: fluent query and command builders, with results you check instead of exceptions you catch.
+
+</td>
+</tr>
+</table>
+
 ### 🤖 ai engineering, proven ‧₊˚
 
 <table>
@@ -106,7 +125,6 @@ Tests your AI coding setup like software: agents, skills, hooks and evals, plus 
 - 🧾 **[Tattlehop](https://github.com/hazeliscoding/tattlehop)** keeps a receipt of what your coding agents changed on your PC outside the repo, and undoes it once you say so. Nothing leaves your PC.
 - 🏷️ **[Carmine Workbench](https://github.com/hazeliscoding/carmine-workbench)** swaps the tokens, cookies and API keys in curl commands, headers and logs for labels before you share them, so the debugging detail stays. Nothing you paste leaves your PC.
 - 🪡 **[Mendmoth](https://github.com/hazeliscoding/mendmoth)** shows your sticker on every background, fills the see-through gaps that dark mode gives away, and exports it for every place you post. Nothing leaves your browser.
-- 💥 **[Oopsling](https://github.com/hazeliscoding/oopsling)** turns a crash in your .NET app into a GitHub issue the user files from their own browser. The app itself sends nothing.
 - 🎨 **[Wippup](https://github.com/hazeliscoding/wippup)** turns the Krita or Procreate file you already saved into a vertical reel of the piece coming together, for the times you didn't record. Nothing leaves your browser.
 
 </td>
