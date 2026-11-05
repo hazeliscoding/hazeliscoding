@@ -134,7 +134,7 @@ Tests your AI coding setup like software: agents, skills, hooks and evals, plus 
 ### ✨ now playing ‧₊˚
 
 <!-- START:ACTIVITY -->
-- 📦 Latest featured release: [Staypaw v1.3.0](https://github.com/hazeliscoding/staypaw/releases/tag/v1.3.0)
+- 📦 Latest featured release: [Overglance v1.0.0](https://github.com/hazeliscoding/overglance-releases/releases/tag/v1.0.0)
 - ✍️ Featured writing: [Every trap is proven](https://www.hazeliscoding.dev/blog/every-trap-is-proven)
 <!-- END:ACTIVITY -->
 
@@ -149,7 +149,7 @@ Tests your AI coding setup like software: agents, skills, hooks and evals, plus 
 
 - 🖼️ **[Avalonia](https://github.com/AvaloniaUI/Avalonia)** (31.8k ★) · [3 merged, 2 in review](https://github.com/AvaloniaUI/Avalonia/pulls?q=is%3Apr+author%3Ahazeliscoding): trackpad scrolling, startup and accessibility fixes in the .NET UI framework my desktop apps are built on.
 - 🗑️ **[Bulk Crap Uninstaller](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller)** (22.3k ★) · [4 merged](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller/pulls?q=is%3Apr+author%3Ahazeliscoding): made BCU-console scriptable with JSON output and a dry-run mode, and I help triage.
-- 📄 **[PdfCraft](https://github.com/storytold/pdfcraft)** (19.5k ★) · [2 merged, 5 in review](https://github.com/storytold/pdfcraft/pulls?q=is%3Apr+author%3Ahazeliscoding): rendering and UI fixes in a PDF reader written from scratch in Rust.
+- 📄 **[PdfCraft](https://github.com/storytold/pdfcraft)** (19.7k ★) · [2 merged, 5 in review](https://github.com/storytold/pdfcraft/pulls?q=is%3Apr+author%3Ahazeliscoding): rendering and UI fixes in a PDF reader written from scratch in Rust.
 - 🚀 **[XIVLauncher](https://github.com/goatcorp/FFXIVQuickLauncher)** (3.2k ★) · [1 in review](https://github.com/goatcorp/FFXIVQuickLauncher/pulls?q=is%3Apr+author%3Ahazeliscoding): a fix for a login crash on unreadable game files.
 - 🐧 **[XIVLauncher.Core](https://github.com/goatcorp/XIVLauncher.Core)** (235 ★) · [1 in review](https://github.com/goatcorp/XIVLauncher.Core/pulls?q=is%3Apr+author%3Ahazeliscoding): creates a missing game folder before patching.
 <!-- END:OSS -->
