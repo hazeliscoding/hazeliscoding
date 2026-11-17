@@ -26,46 +26,52 @@ I'm **Hazel (she/they)**, a Texas-based full-stack developer in **C#, .NET and A
 <tr>
 <td width="50%" valign="top">
 
+🪶 **[Hedgequill](https://github.com/hazeliscoding/hedgequill)**<br>
+A quiet place to write fanfiction and post it to AO3, with word counts that match AO3's. Your words stay in plain Markdown files on your computer.
+
+</td>
+<td width="50%" valign="top">
+
 💾 **[XIV Vault](https://hazeliscoding.github.io/xiv-vault/)**<br>
 Moves your Dalamud setup to a new PC: plugin settings, HUD, hotbars, keybinds and macros. Every backup is hash-checked, and every restore takes a safety backup first.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 💰 **[Gil Sweep](https://hazeliscoding.github.io/gil-sweep/)**<br>
 Answers "what should I farm for gil right now?" from market demand, competition, price trends and node timers on your world.
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 🍡 **[Prompuff](https://hazeliscoding.github.io/prompuff/)**<br>
 Keeps the prompts that worked, with tags, versions and `{{variables}}`, and hands them to your agents over MCP. No account, no cloud.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 🧹 **[Sweepling](https://github.com/hazeliscoding/sweepling)**<br>
 Finds the dev servers and watchers your Claude Code sessions left running on Windows, and closes them only after you say so.
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 🔀 **[PR Sweep](https://github.com/hazeliscoding/pr-sweep)**<br>
 Shows where your team's pull requests are stuck this sprint, across a whole GitHub org, with no labels to maintain.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 🗺️ **[ConAtlas TX](https://conatlas-tx.vercel.app)**<br>
 Puts every anime con in Texas on one calm page, with dates checked against each organizer's own site.
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 🐾 **[Staypaw](https://github.com/hazeliscoding/staypaw)**<br>
